@@ -1,22 +1,28 @@
-# Oral Health Digital Pivot
+# Oral Health Digital Pivot 🦷📊
 
-**Short:** A compact portfolio project showcasing how clinical dental experience + health informatics can be applied to improve preventive oral health for at-risk communities.
+**Short:** This is a compact compact portfolio project demonstrating how clinical dental experience combined with an MSc in Health Informatics can be applied to improve preventive oral health for at-risk communities.
 
 ## Purpose
 - Demonstrates domain knowledge (dental workflows, screening, barriers).
 - Showcases practical data skills (cleaning, simple analytics, dashboards).
 - Contains artifacts: case study, dashboard screenshots, tailored CV.
 
-## Demo highlights
-- Synthetic sample patient dataset and short analysis notebook.
-- A simple dashboard (Plotly Dash / Power BI) showing preventive outreach impact.
-- One‑page case study and slide deck.
+## What’s in this project
+- Synthetic oral-health dataset  
+- Analysis notebook with insights  
+- Preventive oral-health dashboard  
+- 1-page case study  
+- 5-slide presentation  
+- Digital health–focused CV
 
-## Quick start
-1. Clone repo
-2. `python -m venv venv && source venv/bin/activate`
-3. `pip install -r requirements.txt`
-4. Run `scripts/make_dataset.py` to generate sample data
-5. Open `notebooks/analysis.ipynb` or run `app/backend/app.py` for demo API
+## Skills demonstrated
+- Clinical insights from dental nursing background
+- Data literacy (cleaning, EDA, dashboards)  
+- Health-informatics thinking  
+- Communication & presentation  
+- Basic digital product skills 
+
+## View the project on GitHub
+[Repository Link](https://github.com/users/palomaneto/projects/4)
 
 **Contact:** www.linkedin.com/in/paloma-n-151338193
