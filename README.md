@@ -1,6 +1,6 @@
 # Oral Health Digital Pivot 🦷📊
 
-**Short:** This is a compact compact portfolio project demonstrating how clinical dental experience combined with an MSc in Health Informatics can be applied to improve preventive oral health for at-risk communities.
+**Short:** This is a compact portfolio project demonstrating how clinical dental experience combined with an MSc in Health Informatics can be applied to improve preventive oral health for at-risk communities.
 
 ## Purpose
 - Demonstrates domain knowledge (dental workflows, screening, barriers).
